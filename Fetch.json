@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Melissa Alonso,Nouran Salahieh",
+      "title": "California is investigating after a private jet carrying migrants arrived in Sacramento, officials say - CNN",
+      "description": "An investigation is underway after over a dozen migrants arrived in Sacramento, California, by private jet “with no prior arrangement or care in place,” Gov. Gavin Newsom and Attorney General Rob Bonta said Saturday.",
+      "url": "https://www.cnn.com/2023/06/04/us/california-migrants-private-plane/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230604000934-01-rob-bonta-ca-ag-062822-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-06-04T05:20:00Z",
+      "content": "An investigation is underway after over a dozen migrants arrived in Sacramento, California, by private jet with no prior arrangement or care in place, Gov. Gavin Newsom and Attorney General Rob Bonta… [+2152 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Associated Press",
+      "title": "West Virginia man arraigned in fatal shooting of state trooper - New York Post ",
+      "description": "Gov. Jim Justice announced Maynard’s death in a statement Friday night and said he was “absolutely heartbroken.”",
+      "url": "https://nypost.com/2023/06/04/west-virginia-man-timothy-kennedy-arraigned-in-fatal-shooting-of-state-trooper-cory-maynard/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/trooper.jpg?quality=75&strip=all&1685840339&w=1024",
+      "publishedAt": "2023-06-04T05:01:00Z",
+      "content": "A suspect in the fatal shooting of a West Virginia state police officer was arraigned Saturday on a first-degree murder charge.\r\nTimothy Kennedy, 29, was arraigned by video in Mingo County Magistrate… [+2564 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "David Rising",
+      "title": "China defends buzzing American warship in Taiwan Strait, accuses US of provoking Beijing - The Associated Press",
+      "description": "SINGAPORE (AP) — China's defense minister defended sailing a warship across the path of an American destroyer and Canadian frigate transiting the Taiwan Strait, telling a gathering of some of the world's top defense officials in Singapore on Sunday that such …",
+      "url": "https://apnews.com/article/china-us-defense-asia-warship-taiwan-7d0829159a9919601f70cf822d4ec23e",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/5ae0fccd824c4100bc55033d8f462013/3000.webp",
+      "publishedAt": "2023-06-04T03:34:59Z",
+      "content": "SINGAPORE (AP) Chinas defense minister defended sailing a warship across the path of an American destroyer and Canadian frigate transiting the Taiwan Strait, telling a gathering of some of the worlds… [+5632 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Times of Israel"
+      },
+      "author": null,
+      "title": "Netanyahu vows to probe deadly shooting of troops by Egyptian policeman ‘to the end’ - The Times of Israel",
+      "description": "Prime minister, other leaders offer condolences to families of 3 soldiers killed on border, as Egypt reportedly seeks to distance itself from shooter",
+      "url": "https://www.timesofisrael.com/netanyahu-vows-to-probe-deadly-shooting-of-troops-by-egyptian-policeman-to-the-end/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/06/egypt-1024x640.jpg",
+      "publishedAt": "2023-06-04T03:31:25Z",
+      "content": "Prime Minister Benjamin Netanyahu vowed to fully investigate the killing of three soldiers in southern Israel by an Egyptian police officer on Saturday, as the nations leaders offered condolences to … [+6219 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Stanley Cup Final Game 1 Highlights | Panthers vs. Golden Knights - June 3, 2023 - SPORTSNET",
+      "description": "Adin Hill made 33 saves on 35 shots and Zach Whitecloud scored the eventual game-winning goal with 13 minutes left in the third period as the Vegas Golden Kn...",
+      "url": "https://www.youtube.com/watch?v=XBneYKsaQoc",
+      "urlToImage": "https://i.ytimg.com/vi/XBneYKsaQoc/maxresdefault.jpg",
+      "publishedAt": "2023-06-04T03:23:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Exclusive: World's spy chiefs meet in secret conclave in Singapore - Reuters.com",
+      "description": "Senior officials from about two dozen of the world's major intelligence agencies held a secret meeting on the fringes of the Shangri-La Dialogue security meeting in Singapore this weekend, five people told Reuters.",
+      "url": "https://www.reuters.com/world/worlds-spy-chiefs-meet-secret-conclave-singapore-2023-06-04/",
+      "urlToImage": "https://www.reuters.com/resizer/M8TH6iuWgdneiD4xGq9eooyYy_c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OZEB3EH675JPXOYGEFATYYTWOQ.jpg",
+      "publishedAt": "2023-06-04T03:19:00Z",
+      "content": "SINGAPORE, June 4 (Reuters) - Senior officials from about two dozen of the world's major intelligence agencies held a secret meeting on the fringes of the Shangri-La Dialogue security meeting in Sing… [+4035 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Espn.com.sg"
+      },
+      "author": null,
+      "title": "Aaron Judge lifts Yankees with 19th homer, highlight-reel catch - ESPN - ESPN",
+      "description": "Aaron Judge hit his 19th homer of the season and made a running catch that took him through Dodger Stadium's visiting bullpen door to help the Yankees top the Dodgers 6-3 on Saturday.",
+      "url": "https://www.espn.com.sg/mlb/story/_/id/37791405/aaron-judge-lifts-yankees-19th-homer-highlight-reel-catch",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0604%2Fr1182231_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-06-04T02:50:58Z",
+      "content": "LOS ANGELES -- Aaron Judge slugged his 19th home run of the season Saturday, but it was his spectacular running catch at the fence that had people talking after the New York Yankees' 6-3 victory over… [+3198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Guardian staff reporter",
+      "title": "Russia-Ukraine war at a glance: what we know on day 466 of the invasion - The Guardian",
+      "description": "Blast near Dnipro leaves 20 injured; Zelenskiy says Ukraine is ready to launch counteroffensive; Prigozhin says Kremlin factions are destroying Russia",
+      "url": "https://www.theguardian.com/world/2023/jun/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-466-of-the-invasion",
+      "urlToImage": "https://i.guim.co.uk/img/media/39a8ffa8650939c57c2e345dfbce6ee53e68c33f/0_85_1280_768/master/1280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=10d57acc0330705eb527edc8661b37d3",
+      "publishedAt": "2023-06-04T01:26:00Z",
+      "content": "<li>Twenty people including five children were injured from an explosion that hit a two-storey residential building near the central Ukrainian city of Dnipro on Saturday, the regional governor said. … [+3902 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Over 280 dead in India train crash, the nation's worst rail disaster in decades - KTLA 5",
+      "description": "Rescuers found no more survivors in the overturned and mangled wreckage of two passenger trains that derailed in eastern India, killing more than 280 people ...",
+      "url": "https://www.youtube.com/watch?v=W7-8K5WLeDs",
+      "urlToImage": "https://i.ytimg.com/vi/W7-8K5WLeDs/maxresdefault.jpg",
+      "publishedAt": "2023-06-04T01:25:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Biden signs debt limit bill, avoiding U.S. default - Reuters",
+      "description": "President Joe Biden on Saturday signed a bill that suspends the U.S. government's $31.4 trillion debt ceiling, averting what would have been a first-ever default with just two days to spare.",
+      "url": "https://www.reuters.com/world/us/biden-signs-bill-lifting-us-debt-limit-2023-06-03/",
+      "urlToImage": "https://www.reuters.com/resizer/KDz5kNsP69ckz6PDjO_R51B9Cf4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZI63N43IEJL7XG3HMXO2CPN4Z4.jpg",
+      "publishedAt": "2023-06-04T01:07:00Z",
+      "content": "WASHINGTON, June 3 (Reuters) - President Joe Biden on Saturday signed a bill that suspends the U.S. government's $31.4 trillion debt ceiling, averting what would have been a first-ever default with j… [+2023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Reda Wigle",
+      "title": "How the June 2023 full strawberry moon in Sagittarius affects your life - New York Post ",
+      "description": "Arrows to the sky, caution to the wind and truth to the front of the line, a full Strawberry Moon in the shoot your shot, roll the dice sign of Sagittarius is upon us.",
+      "url": "https://nypost.com/2023/06/03/june-2023-full-moon-in-sagittarius-will-affect-all-zodiac-signs/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/full-moon-sagittarius.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2023-06-04T01:05:23Z",
+      "content": "Arrows to the sky, caution to the wind and truth to the front of the line, a full Strawberry moon in the sign of Sagittarius is upon us, reaching its peak on June 3 at 11:42 pm EST.\r\nThe full moon oc… [+5452 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Michelle L. Price, Hannah Fingerhut",
+      "title": "DeSantis signs Bible, Pence hops on motorcycle at 'Roast and Ride' event in Iowa - The Associated Press",
+      "description": "DES MOINES, Iowa (AP) — Amid plates of sliced pork, statement-making leather ensembles and piles of political T-shirts, eight Republican presidential hopefuls descended on Iowa to pitch themselves to voters and, in Mike Pence's  case, hop on a motorcycle.",
+      "url": "https://apnews.com/article/pence-desantis-republican-presidential-candidates-iowa-26a86acff94e204362586c45ab0bc00f",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/fa71daca45824f4599d4aae58bd86896/2539.webp",
+      "publishedAt": "2023-06-04T01:01:56Z",
+      "content": "DES MOINES, Iowa (AP) Amid plates of sliced pork, statement-making leather ensembles and piles of political T-shirts, eight Republican presidential hopefuls descended on Iowa to pitch themselves to v… [+6227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Dan Devine",
+      "title": "NBA Finals: 'I don't think we played well in Game 1,' says Nuggets coach Michael Malone - Yahoo Sports",
+      "description": "Denver won easily and efficiently to open the Finals, but Malone wants his team improved and prepared for maximum effort from Miami.",
+      "url": "https://sports.yahoo.com/nba-finals-i-dont-think-we-played-well-in-game-1-says-nuggets-coach-michael-malone-234456372.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NG.QvekJLGtvPLBIz9SyKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/0d66cf80-0268-11ee-92ff-12a79480c4c7",
+      "publishedAt": "2023-06-03T23:44:56Z",
+      "content": "DENVER Coming off an impressive victory to take a 1-0 lead in the 2023 NBA Finals, Nuggets head coach Michael Malone offered effusive praise of his teams performance when he met with reporters Saturd… [+8334 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Measles case confirmed in Montgomery County; Officials urge residents to monitor possible symptoms - WUSA9",
+      "description": "Anyone who was exposed and develops a fever or other symptoms of measles should contact their health care provider.",
+      "url": "https://www.youtube.com/watch?v=BwZA5Gfi7Pw",
+      "urlToImage": "https://i.ytimg.com/vi/BwZA5Gfi7Pw/hqdefault.jpg",
+      "publishedAt": "2023-06-03T23:25:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Haley Britzky,Brad Lendon",
+      "title": "Taiwan war would be ‘devastating,’ warns US Defense Secretary Lloyd Austin as he criticizes China at Shangri-La security summit - CNN",
+      "description": "A war over Taiwan would be “devastating” and affect the global economy “in ways we cannot imagine,” US Defense Secretary Lloyd Austin has warned, as he underlined US support for the island democracy.",
+      "url": "https://www.cnn.com/2023/06/02/asia/austin-shangri-law-dialogue-speech-taiwan-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230602205631-austin-shangri-law-dialogue-speech-taiwan-intl-hnk.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-06-03T23:20:00Z",
+      "content": "A war over Taiwan would be devastating and affect the global economy in ways we cannot imagine, US Defense Secretary Lloyd Austin has warned, as he underlined US support for the island democracy.\r\nCo… [+4586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Adam Sabes",
+      "title": "Conservatives call out multinational corporations for supporting pride month in America, but not Middle East - Fox Business",
+      "description": "Conservatives on Twitter are calling out multinational corporations for displaying a pride flag-theamed logo on American social media accounts, but not for those overseas.",
+      "url": "https://www.foxbusiness.com/politics/conservatives-call-multinational-corporations-supporting-pride-month-america-not-middle-east",
+      "urlToImage": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/03/0/0/Joe-Biden-Epiphany-Interview-4.jpg?ve=1&tl=1",
+      "publishedAt": "2023-06-03T23:10:58Z",
+      "content": "Conservatives on Twitter are calling out several multinational corporations for showing their support for pride month in America, but not in regions such as the Middle East.\r\nCompanies such as BMW, P… [+2345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Ewan Spence",
+      "title": "New MacBook Air Leak Reveals Apple's Disappointing Decision - Forbes",
+      "description": "As Apple prepares to launch a new and larger MacBook Air at this month's WWDC, are customers about to be short-changed?",
+      "url": "https://www.forbes.com/sites/ewanspence/2023/06/03/apple-macbook-air-m2-15-inch-wwdc-specs-leak-launch/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62ccae018c4886ac7af09d7e/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-06-03T22:40:00Z",
+      "content": "Updated June 3rd; article originally posted June 3rd.\r\nApple has its new Mac hardware ready to launch at next weeks Worldwide Developer Conference. The M2 Max and M2 Ultra Apple Silicon chipsets buil… [+4306 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "Isabella Ramirez",
+      "title": "Trump-Nominated Judge Strikes Down Tennessee Anti-Drag Law as 'Unconstitutional' - The Daily Beast",
+      "description": "U.S. District Judge Thomas Parker said the law is “unconstitutionally vague and substantially overbroad.”",
+      "url": "https://www.thedailybeast.com/trump-nominated-judge-strikes-down-tennessee-anti-drag-law-as-unconstitutional",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1687,w_3000,x_0,y_233/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1685831001/2023-04-22T031530Z_738500697_RC2EJ0AN0JYS_RTRMADP_3_USA-LGBTQ-DRAG_nlg0yl",
+      "publishedAt": "2023-06-03T22:35:30Z",
+      "content": "A federal judge appointed by Donald Trump declared a Tennessee law restricting drag performances an unconstitutional restriction on the freedom of speech in a 70-page ruling Friday. The law, which wa… [+688 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jessica Orwig",
+      "title": "Stephen Hawking's famous theory of how black holes die could mean our entire universe is doomed to evaporate, a new study found - Yahoo! Voices",
+      "description": "Hawking radiation predicts black holes lose energy and eventually evaporate. Now a new study predicts the same fate for the rest of the universe.",
+      "url": "https://www.businessinsider.com/stephen-hawking-theory-could-mean-entire-universe-will-evaporate-2023-6",
+      "urlToImage": "https://i.insider.com/647baad540bf000019fa20f7?width=1200&format=jpeg",
+      "publishedAt": "2023-06-03T21:35:25Z",
+      "content": "The ultimate fate of our universe is unknown. But that doesn't stop astronomers from trying to figure it out.\r\nThe most recent idea of how our universe might end is that it will simply evaporate. Tha… [+2200 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Bevan Hurley",
+      "title": "Boebert claims she didn't vote on debt ceiling deal because it was a 'c**p sandwich' - The Independent",
+      "description": "‘No excuses, I was ticked off they wouldn’t let me do my job, so I didn’t take the vote,’ Colorado Republican says",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/lauren-boebert-twitter-debt-ceiling-vote-b2351004.html",
+      "urlToImage": "https://static.independent.co.uk/2023/06/03/21/newFile.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-06-03T20:50:46Z",
+      "content": "Sign up for the daily Inside Washington email for exclusive US coverage and analysis sent to your inbox\r\nGet our free Inside Washington email\r\nLauren Boebert has claimed that she intentionally missed… [+2911 chars]"
+    }
+  ]
+}
