@@ -80,7 +80,7 @@ export default class News extends Component {
         <div className="row d-flex justify-content-center">
           {!this.state.loading && this.state.articles.map((element) => {
             return (
-              <div className="col-md-4" key={element.url}>
+              <div className="col-md-4 r" key={element.url}>
                 <NewsItem
                   title={element.title?element.title:""}
                   description={element.description?element.description:"Please Click On Read More to Learn more about News"}

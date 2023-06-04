@@ -8,7 +8,7 @@ import "./footer.css"
 
 const Footer = () => {
   return (
-    <footer className='footer'>
+    <footer className='container-expand-lg my-1 justify-content-center'>
       <a href='#' className='footer__logo'>NewsMonkey</a>
       <div className="footer__socials">
           <a href='https://www.linkedin.com/in/swayam-karle-1a1b9822b' target="_blank"><BsLinkedin/></a>
