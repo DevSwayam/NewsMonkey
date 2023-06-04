@@ -10,7 +10,7 @@ c = "Swayam "
     return (
       <div>
         <NavBar/>
-        <News/>
+        <News pageSize ={5}/>
         <Footer/>
       </div>
     )
