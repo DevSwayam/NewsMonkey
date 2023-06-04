@@ -97,6 +97,8 @@ export default class News extends Component {
                   description={element.description?element.description:"Please Click On Read More to Learn more about News"}
                   imageUrl={element.urlToImage?element.urlToImage:"https://static.vecteezy.com/system/resources/thumbnails/004/216/831/original/3d-world-news-background-loop-free-video.jpg"}
                   newsUrl={element.url}
+                  time = {element.publishedAt}
+                  author = {element.author?element.author:"Unknown"}
                 />
               </div>
             );
